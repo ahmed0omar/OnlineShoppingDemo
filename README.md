@@ -1,7 +1,7 @@
 # Online Shopping Demo
 
 It is a django apis for some of Online Shopping web app that's handle (users, products, carts, and orders).
-I is made with django rest framework , django web framework and JWt using python 3.8.
+I is made with `django rest framework3.11.2` , `django 4.1.1` web framework and `JWt` using python 3.8.
 
 ## How to install it?
 
